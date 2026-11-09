@@ -32,10 +32,14 @@ Useful work starts with reconstructing the missing page/data/media and root-lock
 
 ## Additional styling, browser helpers and discovery inputs
 
-The [technical input guide](TECHNICAL_PUBLIC_INPUTS.md) and [exact input manifest](technical-public-inputs.json) add four original stylesheets, three browser JavaScript helpers and three crawler/navigation files. These ten unchanged inputs total 1,963,991 bytes and supplement the 28 source/configuration files above. Browser signer/provider globals, the complete page-data composition, media, fonts, search index and full runtime/recovery/notices remain separately required. No browser helper, signer, stylesheet or provider program was executed for preservation.
+The [technical input guide](TECHNICAL_PUBLIC_INPUTS.md) and [exact input manifest](technical-public-inputs.json) add four original stylesheets, three browser JavaScript helpers and three crawler/navigation files. These ten unchanged inputs total 1,963,991 bytes and supplement the 28 source/configuration files above. The complete route/page JSON composition is retained in the addition below. Browser signer/provider globals, media, fonts, the separate search index and full dependency/runtime/recovery/notices remain separately qualified. No browser helper, signer, stylesheet or provider program was executed for preservation.
 
 ## Reuse the CRAYS integration code
 
 CRAYS AG grants **AGPL-3.0-only** for [25 exact own integration source files](LICENSING.md), dated 9 November 2026. The [scope manifest](license-scope.json) identifies the covered revisions; the original source bodies remain unchanged. Articles, translations, media, fonts, dependencies and the explicitly unqualified shared inputs retain their separate status. Earlier no-grant statements record the capture before this dated grant.
 
 The dated grant now also covers the four retained shared-account integration inputs after exact original-project and immutable Git-source comparison. Their [source relationships and exclusions](license-scope.json) distinguish the shared account implementation from other Member variants; font files remain separately qualified.
+
+## Original multilingual pages and Nostr research
+
+The [page-source guide](PAGE_SOURCES.md) connects the retained renderer to all 1,838 original route/page JSON inputs (168,384,874 bytes). Explore the content groups, exact source manifest and contribution entry points there. Source bodies and existing notices remain unchanged; content origin is recorded from the direct owner statement, with prose reuse terms kept separate from the integration-code AGPL grant. Full assets/index/dependency/runtime recovery remains separately open.
