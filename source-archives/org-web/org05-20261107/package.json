@@ -1,0 +1,16 @@
+{
+  "name": "crays-web-org",
+  "private": true,
+  "version": "1.0.0-candidate.20261106",
+  "scripts": {
+    "build": "next build --webpack",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "16.2.10",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "lucide-react": "1.23.0",
+    "nostr-tools": "2.23.5"
+  }
+}

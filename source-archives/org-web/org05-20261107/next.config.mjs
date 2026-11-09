@@ -1,0 +1,1 @@
+export default {skipTrailingSlashRedirect:true,poweredByHeader:false,images:{unoptimized:true},outputFileTracingIncludes:{'/*':['./data/**/*.json']},experimental:{cpus:1,webpackMemoryOptimizations:true}};

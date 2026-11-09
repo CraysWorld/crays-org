@@ -1,0 +1,13 @@
+/* Org has a 74px in-flow header; the shared original assumes a fixed header. */
+.frame main { letter-spacing: normal; }
+.frame main svg { display: block; }
+.frame main h1 { letter-spacing: -.042em !important; }
+.frame main h2 { letter-spacing: -.035em !important; }
+.frame main [class*="kicker"] { letter-spacing: .12em !important; line-height: 18.6624px !important; }
+.frame main [class*="storySteps"] p { line-height: 1.42 !important; }
+.frame :global(.navbar10_component) img,
+.frame :global(.crays-footer-rebuild) img { filter:none !important; }
+.frame main > section { height: calc(100svh - 74px); padding-top: clamp(30px, 4vw, 54px); }
+@media (max-width:1199px) { .frame main > section { padding-top:28px; } }
+@media (max-width:980px) { .frame main > section { height:auto; min-height:calc(100svh - 74px); padding-top:24px; } }
+@media (max-width:680px) { .frame main > section { padding-top:16px; } }
