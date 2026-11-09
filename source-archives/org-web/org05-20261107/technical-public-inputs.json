@@ -1,0 +1,62 @@
+{
+  "schema": "crays.org05.technical-public-inputs.v1",
+  "sourceReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
+  "sourceBuildId": "26alHqUImOYdSd1toc_ez",
+  "previousSourceTag": "org-web-source05-20261107",
+  "sourceFiles": 10,
+  "sourceBytes": 1963991,
+  "files": [
+    {
+      "relativePath": "public/assets/css/crays-modern-overrides.css",
+      "bytes": 949126,
+      "sha256": "e435f0450f3f2811a21f8777e9ebada0e3b26b2adc64f4534025b20c23abac96"
+    },
+    {
+      "relativePath": "public/assets/css/crays-nostr-baas.css",
+      "bytes": 264031,
+      "sha256": "f0d4a2c56dd2b4b35685b0fc51279530f110f20ec718341eefb657b9dcceb4e1"
+    },
+    {
+      "relativePath": "public/assets/css/crays-nostr-hub.css",
+      "bytes": 307230,
+      "sha256": "ec986b2329f999283ed0e0aa8e15732cf8b7c77a21398d0ffadd221e6675e53c"
+    },
+    {
+      "relativePath": "public/assets/fund-contact/crays-language.css",
+      "bytes": 4982,
+      "sha256": "9b395ba21679fd7ad6c209b73476abf4644b47d32b2623672d3ed639d0dcb374"
+    },
+    {
+      "relativePath": "public/assets/fund-contact/resources-page.js",
+      "bytes": 12456,
+      "sha256": "9ad35401461aaeae1e568b9b709c778db270bccd6d05c9025b98f85e886d7505"
+    },
+    {
+      "relativePath": "public/assets/js/crays-nostr-community.js",
+      "bytes": 56068,
+      "sha256": "e1a79fbfbaa76823e7434f3d4099246b4c12b4de831b268aafc8c5981c590167"
+    },
+    {
+      "relativePath": "public/assets/js/site.js",
+      "bytes": 5780,
+      "sha256": "76c0e5606ffdf5e03779e4d1085e4517b89bef3216dfc2d53d1a11eae170d9cc"
+    },
+    {
+      "relativePath": "public/llms.txt",
+      "bytes": 1146,
+      "sha256": "90e5c63fa7607119112a4873aada5c625a26c8a53611747c582e5be2aabfbe9b"
+    },
+    {
+      "relativePath": "public/robots.txt",
+      "bytes": 164,
+      "sha256": "3c8c38d273fcc0bd228104d22e016aa850ef650c4d327234fddb8f9eef4f23fa"
+    },
+    {
+      "relativePath": "public/sitemap.xml",
+      "bytes": 363008,
+      "sha256": "94e23de01b046846072ae1af9ae96f2754541f085eb009680db525a83b1a33db"
+    }
+  ],
+  "sourceExecuted": false,
+  "wholeWebsiteRecoveryOrLicenseClosure": false
+}

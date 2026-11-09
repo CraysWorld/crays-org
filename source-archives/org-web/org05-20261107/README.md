@@ -29,3 +29,7 @@ The root package records Next.js 16.2.10, React/React DOM 19.2.4, lucide-react 1
 The selected application files do not establish a root application license grant. Dependency license metadata is preserved in the original lock, but complete version-specific original notices, incorporated-source relationships and any applicable source offers remain open. This capture adds no blanket license and does not claim full legal or recovery closure.
 
 Useful work starts with reconstructing the missing page/data/media and root-lock relationships from exact source authority, documenting the route loader, and testing Nostr validation with synthetic signed-event fixtures in an isolated environment. Keep private keys, account records and live relay credentials out of issues and commits. The [CRAYS developer guide](https://github.com/CraysCircle/crays-platform/blob/main/CONTRIBUTING.md) explains how to propose a focused contribution.
+
+## Additional styling, browser helpers and discovery inputs
+
+The [technical input guide](TECHNICAL_PUBLIC_INPUTS.md) and [exact input manifest](technical-public-inputs.json) add four original stylesheets, three browser JavaScript helpers and three crawler/navigation files. These ten unchanged inputs total 1,963,991 bytes and supplement the 28 source/configuration files above. Browser signer/provider globals, the complete page-data composition, media, fonts, search index and full runtime/recovery/notices remain separately required. No browser helper, signer, stylesheet or provider program was executed for preservation.
