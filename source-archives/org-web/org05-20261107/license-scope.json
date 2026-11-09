@@ -4,8 +4,8 @@
   "copyrightHolder": "CRAYS AG",
   "grantDate": "2026-11-09",
   "sourceRepository": "CraysCircle/crays-org",
-  "sourceCommit": "acf3ed1e19fc4be0489946725259925309fecdbd",
-  "scope": "Only the21 exact CRAYS-owned integration source revisions listed below. Hashes identify the initial grant and do not restrict modification or redistribution rights under AGPL version3.",
+  "sourceCommit": "991df245b48bfd924541059ae09b8c2a64deeaea",
+  "scope": "Only the 25 exact CRAYS-owned integration source revisions listed below. Hashes identify the initial grants and do not restrict modification or redistribution rights under AGPL version 3.",
   "files": [
     {
       "path": "source-archives/org-web/org05-20261107/app/(account)/account/layout.jsx",
@@ -19,7 +19,7 @@
         "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
         "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
       },
-      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/app/(account)/account/layout.jsx"
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/991df245b48bfd924541059ae09b8c2a64deeaea/source-archives/org-web/org05-20261107/app/(account)/account/layout.jsx"
     },
     {
       "path": "source-archives/org-web/org05-20261107/app/(account)/account/org-account-frame.module.css",
@@ -33,7 +33,7 @@
         "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
         "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
       },
-      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/app/(account)/account/org-account-frame.module.css"
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/991df245b48bfd924541059ae09b8c2a64deeaea/source-archives/org-web/org05-20261107/app/(account)/account/org-account-frame.module.css"
     },
     {
       "path": "source-archives/org-web/org05-20261107/app/(account)/account/page.jsx",
@@ -47,7 +47,7 @@
         "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
         "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
       },
-      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/app/(account)/account/page.jsx"
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/991df245b48bfd924541059ae09b8c2a64deeaea/source-archives/org-web/org05-20261107/app/(account)/account/page.jsx"
     },
     {
       "path": "source-archives/org-web/org05-20261107/app/(website)/[[...slug]]/layout.jsx",
@@ -61,7 +61,7 @@
         "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
         "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
       },
-      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/app/(website)/[[...slug]]/layout.jsx"
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/991df245b48bfd924541059ae09b8c2a64deeaea/source-archives/org-web/org05-20261107/app/(website)/[[...slug]]/layout.jsx"
     },
     {
       "path": "source-archives/org-web/org05-20261107/app/(website)/[[...slug]]/page.jsx",
@@ -75,7 +75,7 @@
         "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
         "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
       },
-      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/app/(website)/[[...slug]]/page.jsx"
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/991df245b48bfd924541059ae09b8c2a64deeaea/source-archives/org-web/org05-20261107/app/(website)/[[...slug]]/page.jsx"
     },
     {
       "path": "source-archives/org-web/org05-20261107/next.config.mjs",
@@ -89,7 +89,7 @@
         "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
         "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
       },
-      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/next.config.mjs"
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/991df245b48bfd924541059ae09b8c2a64deeaea/source-archives/org-web/org05-20261107/next.config.mjs"
     },
     {
       "path": "source-archives/org-web/org05-20261107/package.json",
@@ -103,7 +103,7 @@
         "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
         "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
       },
-      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/package.json"
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/991df245b48bfd924541059ae09b8c2a64deeaea/source-archives/org-web/org05-20261107/package.json"
     },
     {
       "path": "source-archives/org-web/org05-20261107/pages/api/nostr/config.js",
@@ -117,7 +117,7 @@
         "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
         "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
       },
-      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/pages/api/nostr/config.js"
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/991df245b48bfd924541059ae09b8c2a64deeaea/source-archives/org-web/org05-20261107/pages/api/nostr/config.js"
     },
     {
       "path": "source-archives/org-web/org05-20261107/pages/api/nostr/events.js",
@@ -131,7 +131,7 @@
         "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
         "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
       },
-      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/pages/api/nostr/events.js"
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/991df245b48bfd924541059ae09b8c2a64deeaea/source-archives/org-web/org05-20261107/pages/api/nostr/events.js"
     },
     {
       "path": "source-archives/org-web/org05-20261107/pages/api/nostr/moderation.js",
@@ -145,7 +145,7 @@
         "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
         "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
       },
-      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/pages/api/nostr/moderation.js"
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/991df245b48bfd924541059ae09b8c2a64deeaea/source-archives/org-web/org05-20261107/pages/api/nostr/moderation.js"
     },
     {
       "path": "source-archives/org-web/org05-20261107/pages/api/nostr/publish.js",
@@ -159,7 +159,7 @@
         "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
         "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
       },
-      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/pages/api/nostr/publish.js"
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/991df245b48bfd924541059ae09b8c2a64deeaea/source-archives/org-web/org05-20261107/pages/api/nostr/publish.js"
     },
     {
       "path": "source-archives/org-web/org05-20261107/src/OrgImage.jsx",
@@ -173,7 +173,7 @@
         "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
         "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
       },
-      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/src/OrgImage.jsx"
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/991df245b48bfd924541059ae09b8c2a64deeaea/source-archives/org-web/org05-20261107/src/OrgImage.jsx"
     },
     {
       "path": "source-archives/org-web/org05-20261107/src/OrgScripts.jsx",
@@ -187,7 +187,7 @@
         "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
         "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
       },
-      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/src/OrgScripts.jsx"
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/991df245b48bfd924541059ae09b8c2a64deeaea/source-archives/org-web/org05-20261107/src/OrgScripts.jsx"
     },
     {
       "path": "source-archives/org-web/org05-20261107/src/OrgTree.jsx",
@@ -201,7 +201,75 @@
         "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
         "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
       },
-      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/src/OrgTree.jsx"
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/991df245b48bfd924541059ae09b8c2a64deeaea/source-archives/org-web/org05-20261107/src/OrgTree.jsx"
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/src/account-entry/AccountEntry.tsx",
+      "capturedRelativePath": "src/account-entry/AccountEntry.tsx",
+      "bytes": 3792,
+      "sha256": "ec6bb7a3c6f3633ef0e88e1c1c8dcba7150ed218905c2d33f20170f2a998fb91",
+      "family": "CRAYS shared account-entry integration code",
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/991df245b48bfd924541059ae09b8c2a64deeaea/source-archives/org-web/org05-20261107/src/account-entry/AccountEntry.tsx",
+      "sourceEvidence": {
+        "exactSharedProjectPath": "src/components/crays-clubs/public/aws-shared-account/AccountEntry.tsx",
+        "exactPublishedPlatformPath": "apps/web/src/components/crays-clubs/public/aws-shared-account/AccountEntry.tsx",
+        "publicPlatformCommit": "2d6b7d12104b28058a519cc6d8852aec1b44e78c",
+        "immutablePlatformSource": "https://github.com/CraysCircle/crays-platform/blob/2d6b7d12104b28058a519cc6d8852aec1b44e78c/apps/web/src/components/crays-clubs/public/aws-shared-account/AccountEntry.tsx",
+        "orgIntakeSharedProjectAndPlatformGitOriginalBodiesEqual": true,
+        "sharedSourceCaptureBaselineManifestSHA256": "d027dafaa40f3f4a3de52e62456f0d1bce8320c1a90e55d816f4e0706f4d1541",
+        "sharedSourceCaptureBaselineBuildId": "MKqk1B-xeW6DX8QPKUAfx"
+      }
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/src/account-entry/account-access-messages.ts",
+      "capturedRelativePath": "src/account-entry/account-access-messages.ts",
+      "bytes": 17707,
+      "sha256": "196527fcbce918d054e5dbb6c977deb04e13aaf326b373d9b5ee0af08036478a",
+      "family": "CRAYS shared account-entry integration code",
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/991df245b48bfd924541059ae09b8c2a64deeaea/source-archives/org-web/org05-20261107/src/account-entry/account-access-messages.ts",
+      "sourceEvidence": {
+        "exactSharedProjectPath": "src/components/crays-clubs/public/aws-shared-account/account-access-messages.ts",
+        "exactPublishedPlatformPath": "apps/web/src/components/crays-clubs/public/aws-shared-account/account-access-messages.ts",
+        "publicPlatformCommit": "2d6b7d12104b28058a519cc6d8852aec1b44e78c",
+        "immutablePlatformSource": "https://github.com/CraysCircle/crays-platform/blob/2d6b7d12104b28058a519cc6d8852aec1b44e78c/apps/web/src/components/crays-clubs/public/aws-shared-account/account-access-messages.ts",
+        "orgIntakeSharedProjectAndPlatformGitOriginalBodiesEqual": true,
+        "sharedSourceCaptureBaselineManifestSHA256": "d027dafaa40f3f4a3de52e62456f0d1bce8320c1a90e55d816f4e0706f4d1541",
+        "sharedSourceCaptureBaselineBuildId": "MKqk1B-xeW6DX8QPKUAfx"
+      }
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/src/account-entry/clubs-member-account.module.css",
+      "capturedRelativePath": "src/account-entry/clubs-member-account.module.css",
+      "bytes": 29861,
+      "sha256": "48b721ff2dcc499d93c867846d95583f193db8cad504a9e3ae7ffd3ddb9f1825",
+      "family": "CRAYS shared account-entry integration code",
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/991df245b48bfd924541059ae09b8c2a64deeaea/source-archives/org-web/org05-20261107/src/account-entry/clubs-member-account.module.css",
+      "sourceEvidence": {
+        "exactSharedProjectPath": "src/components/crays-clubs/public/aws-shared-account/clubs-member-account.module.css",
+        "exactPublishedPlatformPath": "apps/web/src/components/crays-clubs/public/aws-shared-account/clubs-member-account.module.css",
+        "publicPlatformCommit": "2d6b7d12104b28058a519cc6d8852aec1b44e78c",
+        "immutablePlatformSource": "https://github.com/CraysCircle/crays-platform/blob/2d6b7d12104b28058a519cc6d8852aec1b44e78c/apps/web/src/components/crays-clubs/public/aws-shared-account/clubs-member-account.module.css",
+        "orgIntakeSharedProjectAndPlatformGitOriginalBodiesEqual": true,
+        "sharedSourceCaptureBaselineManifestSHA256": "d027dafaa40f3f4a3de52e62456f0d1bce8320c1a90e55d816f4e0706f4d1541",
+        "sharedSourceCaptureBaselineBuildId": "MKqk1B-xeW6DX8QPKUAfx"
+      }
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/src/account-entry/clubs-public-design-tokens.module.css",
+      "capturedRelativePath": "src/account-entry/clubs-public-design-tokens.module.css",
+      "bytes": 3813,
+      "sha256": "6afcc3191064339c5fa11e8960901feeaafe97cd1eb2da2c78c3f2628cb58ed2",
+      "family": "CRAYS shared account-entry integration code",
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/991df245b48bfd924541059ae09b8c2a64deeaea/source-archives/org-web/org05-20261107/src/account-entry/clubs-public-design-tokens.module.css",
+      "sourceEvidence": {
+        "exactSharedProjectPath": "src/components/crays-clubs/public/aws-shared-account/clubs-public-design-tokens.module.css",
+        "exactPublishedPlatformPath": "apps/web/src/components/crays-clubs/public/aws-shared-account/clubs-public-design-tokens.module.css",
+        "publicPlatformCommit": "2d6b7d12104b28058a519cc6d8852aec1b44e78c",
+        "immutablePlatformSource": "https://github.com/CraysCircle/crays-platform/blob/2d6b7d12104b28058a519cc6d8852aec1b44e78c/apps/web/src/components/crays-clubs/public/aws-shared-account/clubs-public-design-tokens.module.css",
+        "orgIntakeSharedProjectAndPlatformGitOriginalBodiesEqual": true,
+        "sharedSourceCaptureBaselineManifestSHA256": "d027dafaa40f3f4a3de52e62456f0d1bce8320c1a90e55d816f4e0706f4d1541",
+        "sharedSourceCaptureBaselineBuildId": "MKqk1B-xeW6DX8QPKUAfx"
+      }
     },
     {
       "path": "source-archives/org-web/org05-20261107/src/org-pages.mjs",
@@ -215,7 +283,7 @@
         "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
         "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
       },
-      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/src/org-pages.mjs"
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/991df245b48bfd924541059ae09b8c2a64deeaea/source-archives/org-web/org05-20261107/src/org-pages.mjs"
     },
     {
       "path": "source-archives/org-web/org05-20261107/src/original/api/nostr/config.mjs",
@@ -229,7 +297,7 @@
         "gitBlob": "79540f5e700ba90d749e1b9b5ddb1ec22ffb5b90",
         "exactOriginalBodyMatch": true
       },
-      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/src/original/api/nostr/config.mjs"
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/991df245b48bfd924541059ae09b8c2a64deeaea/source-archives/org-web/org05-20261107/src/original/api/nostr/config.mjs"
     },
     {
       "path": "source-archives/org-web/org05-20261107/src/original/api/nostr/events.mjs",
@@ -243,7 +311,7 @@
         "gitBlob": "5c01913507c31826f0fb59fa455f0c29728aa094",
         "exactOriginalBodyMatch": true
       },
-      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/src/original/api/nostr/events.mjs"
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/991df245b48bfd924541059ae09b8c2a64deeaea/source-archives/org-web/org05-20261107/src/original/api/nostr/events.mjs"
     },
     {
       "path": "source-archives/org-web/org05-20261107/src/original/api/nostr/moderation.mjs",
@@ -257,7 +325,7 @@
         "gitBlob": "bcba7b5000ab494ccb35443aa7bcdfb8cd93cfee",
         "exactOriginalBodyMatch": true
       },
-      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/src/original/api/nostr/moderation.mjs"
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/991df245b48bfd924541059ae09b8c2a64deeaea/source-archives/org-web/org05-20261107/src/original/api/nostr/moderation.mjs"
     },
     {
       "path": "source-archives/org-web/org05-20261107/src/original/api/nostr/publish.mjs",
@@ -271,7 +339,7 @@
         "gitBlob": "271f80f8ca61cd156490b1cd8268d70a36a55de5",
         "exactOriginalBodyMatch": true
       },
-      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/src/original/api/nostr/publish.mjs"
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/991df245b48bfd924541059ae09b8c2a64deeaea/source-archives/org-web/org05-20261107/src/original/api/nostr/publish.mjs"
     },
     {
       "path": "source-archives/org-web/org05-20261107/src/original/lib/nostr-server.mjs",
@@ -285,7 +353,7 @@
         "gitBlob": "fe0016c71ed7c28302497cf899db21b171fdec79",
         "exactOriginalBodyMatch": true
       },
-      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/src/original/lib/nostr-server.mjs"
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/991df245b48bfd924541059ae09b8c2a64deeaea/source-archives/org-web/org05-20261107/src/original/lib/nostr-server.mjs"
     },
     {
       "path": "source-archives/org-web/org05-20261107/src/original/package.json",
@@ -299,11 +367,11 @@
         "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
         "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
       },
-      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/src/original/package.json"
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/991df245b48bfd924541059ae09b8c2a64deeaea/source-archives/org-web/org05-20261107/src/original/package.json"
     }
   ],
-  "coveredFileCount": 21,
-  "coveredBytes": 25240,
+  "coveredFileCount": 25,
+  "coveredBytes": 80413,
   "excludedCapturedInputs": [
     {
       "path": "source-archives/org-web/org05-20261107/next-env.d.ts",
@@ -328,30 +396,6 @@
     {
       "path": "source-archives/org-web/org05-20261107/public/sitemap.xml",
       "reason": "Crawler/discovery/document route data outside the code-only grant; sitemap may describe article corpus."
-    },
-    {
-      "path": "source-archives/org-web/org05-20261107/src/account-entry/AccountEntry.tsx",
-      "bytes": 3792,
-      "sha256": "ec6bb7a3c6f3633ef0e88e1c1c8dcba7150ed218905c2d33f20170f2a998fb91",
-      "reason": "Shared account source excluded pending exact original shared-project mapping; this notice grants no license for it."
-    },
-    {
-      "path": "source-archives/org-web/org05-20261107/src/account-entry/account-access-messages.ts",
-      "bytes": 17707,
-      "sha256": "196527fcbce918d054e5dbb6c977deb04e13aaf326b373d9b5ee0af08036478a",
-      "reason": "Shared account source excluded pending exact original shared-project mapping; this notice grants no license for it."
-    },
-    {
-      "path": "source-archives/org-web/org05-20261107/src/account-entry/clubs-member-account.module.css",
-      "bytes": 29861,
-      "sha256": "48b721ff2dcc499d93c867846d95583f193db8cad504a9e3ae7ffd3ddb9f1825",
-      "reason": "Shared account source excluded pending exact original shared-project mapping; this notice grants no license for it."
-    },
-    {
-      "path": "source-archives/org-web/org05-20261107/src/account-entry/clubs-public-design-tokens.module.css",
-      "bytes": 3813,
-      "sha256": "6afcc3191064339c5fa11e8960901feeaafe97cd1eb2da2c78c3f2628cb58ed2",
-      "reason": "Shared account source excluded pending exact original shared-project mapping; this notice grants no license for it."
     },
     {
       "path": "source-archives/org-web/org05-20261107/public/assets/css/crays-modern-overrides.css",
@@ -416,5 +460,15 @@
   },
   "sourceFilesPreservedUnchanged": true,
   "applicationSourceExecuted": false,
-  "fullWebsiteRightsOrRecoveryClosure": false
+  "fullWebsiteRightsOrRecoveryClosure": false,
+  "scopeExtension": {
+    "date": "2026-11-09",
+    "previousGrantSourceCommit": "991df245b48bfd924541059ae09b8c2a64deeaea",
+    "previousGrantFileCount": 21,
+    "addedFileCount": 4,
+    "addedBytes": 55173,
+    "previous21GrantPreserved": true,
+    "purpose": "Extends the established 21-file grant to the four exact shared-account integration revisions with matching original shared-web source and immutable platform source.",
+    "sourceRelationshipReviewSHA256": "fd8cdb1e3d8fd5c9a0c5cac4daeb38223308227395d8562a32846afbdef7b753"
+  }
 }

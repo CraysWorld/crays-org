@@ -36,4 +36,6 @@ The [technical input guide](TECHNICAL_PUBLIC_INPUTS.md) and [exact input manifes
 
 ## Reuse the CRAYS integration code
 
-CRAYS AG grants **AGPL-3.0-only** for [21 exact own integration source files](LICENSING.md), dated 9 November 2026. The [scope manifest](license-scope.json) identifies the covered revisions; the original source bodies remain unchanged. Articles, translations, media, fonts, dependencies and the explicitly unqualified shared inputs retain their separate status. Earlier no-grant statements record the capture before this dated grant.
+CRAYS AG grants **AGPL-3.0-only** for [25 exact own integration source files](LICENSING.md), dated 9 November 2026. The [scope manifest](license-scope.json) identifies the covered revisions; the original source bodies remain unchanged. Articles, translations, media, fonts, dependencies and the explicitly unqualified shared inputs retain their separate status. Earlier no-grant statements record the capture before this dated grant.
+
+The dated grant now also covers the four retained shared-account integration inputs after exact original-project and immutable Git-source comparison. Their [source relationships and exclusions](license-scope.json) distinguish the shared account implementation from other Member variants; font files remain separately qualified.
