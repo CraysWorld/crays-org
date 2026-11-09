@@ -43,3 +43,7 @@ The dated grant now also covers the four retained shared-account integration inp
 ## Original multilingual pages and Nostr research
 
 The [page-source guide](PAGE_SOURCES.md) connects the retained renderer to all 1,838 original route/page JSON inputs (168,384,874 bytes). Explore the content groups, exact source manifest and contribution entry points there. Source bodies and existing notices remain unchanged; content origin is recorded from the direct owner statement, with prose reuse terms kept separate from the integration-code AGPL grant. Full assets/index/dependency/runtime recovery remains separately open.
+
+## Original prose reuse: grant dated 9 November 2026
+
+CRAYS AG separately licenses its original prose within the 1,837 page source containers under **CC BY-SA 4.0 International**. The [grant and exclusions](CONTENT_LICENSE.md), [exact container scope](content-license-scope.json) and [practical attribution guidance](CONTENT_ATTRIBUTION.md) identify this text-only grant. The 25-file integration-code AGPL grant is unchanged. The technical registry, code, whole JSON/HTML structure, metadata, media, fonts, logos and external material are excluded. Existing no-prose-grant fields describe the earlier capture; the original data-source-inputs.json remains unchanged as historical evidence. This dated licensing addition modifies no original source body or runtime.

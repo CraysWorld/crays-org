@@ -22,7 +22,9 @@ A focused first contribution can use a synthetic page fixture to check metadata 
 
 The owner directly confirmed that all retained article, directory and translation content was fully self-created and authorized public source preservation. This is recorded as the owner's statement. Original copyright notices and content remain unchanged.
 
-The [dated AGPL-3.0-only grant](LICENSING.md) covers the exact CRAYS-owned integration code listed in its scope manifest. It does not declare an additional reuse license for articles, translations, images, fonts or other assets. Apply the relevant existing terms before reusing those materials.
+The [dated AGPL-3.0-only grant](LICENSING.md) continues to cover only the exact CRAYS-owned integration code listed in its scope manifest. A **separate prose grant dated 9 November 2026** licenses CRAYS-original text within the 1,837 page containers under **CC BY-SA 4.0 International**; see [CONTENT_LICENSE.md](CONTENT_LICENSE.md), the [exact prose scope](content-license-scope.json) and [attribution guidance](CONTENT_ATTRIBUTION.md). The technical route registry, container structure/metadata, code, images, fonts, logos and external material are excluded from this prose grant.
+
+The unchanged data-source-inputs.json records the earlier capture-time additionalProseLicenseDeclared: false state. That historical field is retained; the separate dated grant records the later reuse decision. The existing code grant and other excluded-material terms remain unchanged.
 
 ## Version and recovery boundaries
 
