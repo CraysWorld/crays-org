@@ -33,3 +33,7 @@ Useful work starts with reconstructing the missing page/data/media and root-lock
 ## Additional styling, browser helpers and discovery inputs
 
 The [technical input guide](TECHNICAL_PUBLIC_INPUTS.md) and [exact input manifest](technical-public-inputs.json) add four original stylesheets, three browser JavaScript helpers and three crawler/navigation files. These ten unchanged inputs total 1,963,991 bytes and supplement the 28 source/configuration files above. Browser signer/provider globals, the complete page-data composition, media, fonts, search index and full runtime/recovery/notices remain separately required. No browser helper, signer, stylesheet or provider program was executed for preservation.
+
+## Reuse the CRAYS integration code
+
+CRAYS AG grants **AGPL-3.0-only** for [21 exact own integration source files](LICENSING.md), dated 9 November 2026. The [scope manifest](license-scope.json) identifies the covered revisions; the original source bodies remain unchanged. Articles, translations, media, fonts, dependencies and the explicitly unqualified shared inputs retain their separate status. Earlier no-grant statements record the capture before this dated grant.

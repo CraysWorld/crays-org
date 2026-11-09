@@ -1,0 +1,420 @@
+{
+  "schema": "crays.org-own-integration-license-scope.v1",
+  "license": "AGPL-3.0-only",
+  "copyrightHolder": "CRAYS AG",
+  "grantDate": "2026-11-09",
+  "sourceRepository": "CraysCircle/crays-org",
+  "sourceCommit": "acf3ed1e19fc4be0489946725259925309fecdbd",
+  "scope": "Only the21 exact CRAYS-owned integration source revisions listed below. Hashes identify the initial grant and do not restrict modification or redistribution rights under AGPL version3.",
+  "files": [
+    {
+      "path": "source-archives/org-web/org05-20261107/app/(account)/account/layout.jsx",
+      "capturedRelativePath": "app/(account)/account/layout.jsx",
+      "bytes": 154,
+      "sha256": "0525f82feff846c22d55fdcaa8cf58d39118408981b45ee9f902f944f2592028",
+      "family": "Org05 Next route, original-document adapter or project configuration",
+      "sourceEvidence": {
+        "recordedConversionProvenanceSHA256": "1d4d37221ea1493e511b4fe71192a9b1db1efc54e40ca7dc938d35778ed5a346",
+        "recordedSourceRoot": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/eleven-sites-live-parity-20261107/minimal-corrections-20261107/org-current-complete-next-20261107-05",
+        "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
+        "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
+      },
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/app/(account)/account/layout.jsx"
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/app/(account)/account/org-account-frame.module.css",
+      "capturedRelativePath": "app/(account)/account/org-account-frame.module.css",
+      "bytes": 908,
+      "sha256": "2e880dd1f496af8c320c0fd725639d659e1bd6cd9b7f7504cbe963bd029b4dfe",
+      "family": "Org05 Next route, original-document adapter or project configuration",
+      "sourceEvidence": {
+        "recordedConversionProvenanceSHA256": "1d4d37221ea1493e511b4fe71192a9b1db1efc54e40ca7dc938d35778ed5a346",
+        "recordedSourceRoot": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/eleven-sites-live-parity-20261107/minimal-corrections-20261107/org-current-complete-next-20261107-05",
+        "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
+        "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
+      },
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/app/(account)/account/org-account-frame.module.css"
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/app/(account)/account/page.jsx",
+      "capturedRelativePath": "app/(account)/account/page.jsx",
+      "bytes": 1457,
+      "sha256": "1d8a3f7a8b338cb1c8ccafaae7eacb264f68083b587b28988d666d872c0f613f",
+      "family": "Org05 Next route, original-document adapter or project configuration",
+      "sourceEvidence": {
+        "recordedConversionProvenanceSHA256": "1d4d37221ea1493e511b4fe71192a9b1db1efc54e40ca7dc938d35778ed5a346",
+        "recordedSourceRoot": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/eleven-sites-live-parity-20261107/minimal-corrections-20261107/org-current-complete-next-20261107-05",
+        "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
+        "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
+      },
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/app/(account)/account/page.jsx"
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/app/(website)/[[...slug]]/layout.jsx",
+      "capturedRelativePath": "app/(website)/[[...slug]]/layout.jsx",
+      "bytes": 336,
+      "sha256": "0b9ac7820fb1f0ac09cf31fb97a7378ab0567fc044e052a66aca62ee0ea53e13",
+      "family": "Org05 Next route, original-document adapter or project configuration",
+      "sourceEvidence": {
+        "recordedConversionProvenanceSHA256": "1d4d37221ea1493e511b4fe71192a9b1db1efc54e40ca7dc938d35778ed5a346",
+        "recordedSourceRoot": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/eleven-sites-live-parity-20261107/minimal-corrections-20261107/org-current-complete-next-20261107-05",
+        "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
+        "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
+      },
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/app/(website)/[[...slug]]/layout.jsx"
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/app/(website)/[[...slug]]/page.jsx",
+      "capturedRelativePath": "app/(website)/[[...slug]]/page.jsx",
+      "bytes": 873,
+      "sha256": "398ed180cbe2deb4b99632bd3f8b734275c5667928d457d44c354a94fba9779c",
+      "family": "Org05 Next route, original-document adapter or project configuration",
+      "sourceEvidence": {
+        "recordedConversionProvenanceSHA256": "1d4d37221ea1493e511b4fe71192a9b1db1efc54e40ca7dc938d35778ed5a346",
+        "recordedSourceRoot": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/eleven-sites-live-parity-20261107/minimal-corrections-20261107/org-current-complete-next-20261107-05",
+        "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
+        "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
+      },
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/app/(website)/[[...slug]]/page.jsx"
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/next.config.mjs",
+      "capturedRelativePath": "next.config.mjs",
+      "bytes": 205,
+      "sha256": "d735922a6e399ab021ba68149245ba4a9877060e2c5b1fa6ed04d21b338ce48e",
+      "family": "Org05 Next route, original-document adapter or project configuration",
+      "sourceEvidence": {
+        "recordedConversionProvenanceSHA256": "1d4d37221ea1493e511b4fe71192a9b1db1efc54e40ca7dc938d35778ed5a346",
+        "recordedSourceRoot": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/eleven-sites-live-parity-20261107/minimal-corrections-20261107/org-current-complete-next-20261107-05",
+        "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
+        "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
+      },
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/next.config.mjs"
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/package.json",
+      "capturedRelativePath": "package.json",
+      "bytes": 329,
+      "sha256": "6caad7728d2437c308afd8128b0252d9cb578e8a61574f7a2e896f1bc665214c",
+      "family": "Org05 Next route, original-document adapter or project configuration",
+      "sourceEvidence": {
+        "recordedConversionProvenanceSHA256": "1d4d37221ea1493e511b4fe71192a9b1db1efc54e40ca7dc938d35778ed5a346",
+        "recordedSourceRoot": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/eleven-sites-live-parity-20261107/minimal-corrections-20261107/org-current-complete-next-20261107-05",
+        "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
+        "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
+      },
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/package.json"
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/pages/api/nostr/config.js",
+      "capturedRelativePath": "pages/api/nostr/config.js",
+      "bytes": 114,
+      "sha256": "eb4cfe36db874b4a6e7af841bec839f3092f47195ae2c7987fec411c04824ca9",
+      "family": "Org05 Next route, original-document adapter or project configuration",
+      "sourceEvidence": {
+        "recordedConversionProvenanceSHA256": "1d4d37221ea1493e511b4fe71192a9b1db1efc54e40ca7dc938d35778ed5a346",
+        "recordedSourceRoot": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/eleven-sites-live-parity-20261107/minimal-corrections-20261107/org-current-complete-next-20261107-05",
+        "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
+        "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
+      },
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/pages/api/nostr/config.js"
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/pages/api/nostr/events.js",
+      "capturedRelativePath": "pages/api/nostr/events.js",
+      "bytes": 114,
+      "sha256": "56b0efc54a6d80d58f9d5165392c207ac2bcb7c582c5303d40a994ebd530832e",
+      "family": "Org05 Next route, original-document adapter or project configuration",
+      "sourceEvidence": {
+        "recordedConversionProvenanceSHA256": "1d4d37221ea1493e511b4fe71192a9b1db1efc54e40ca7dc938d35778ed5a346",
+        "recordedSourceRoot": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/eleven-sites-live-parity-20261107/minimal-corrections-20261107/org-current-complete-next-20261107-05",
+        "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
+        "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
+      },
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/pages/api/nostr/events.js"
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/pages/api/nostr/moderation.js",
+      "capturedRelativePath": "pages/api/nostr/moderation.js",
+      "bytes": 118,
+      "sha256": "f9d96f7721fe4cc39f3bfc585689afcd44fe08768a9f9419ec0070a9266f2157",
+      "family": "Org05 Next route, original-document adapter or project configuration",
+      "sourceEvidence": {
+        "recordedConversionProvenanceSHA256": "1d4d37221ea1493e511b4fe71192a9b1db1efc54e40ca7dc938d35778ed5a346",
+        "recordedSourceRoot": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/eleven-sites-live-parity-20261107/minimal-corrections-20261107/org-current-complete-next-20261107-05",
+        "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
+        "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
+      },
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/pages/api/nostr/moderation.js"
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/pages/api/nostr/publish.js",
+      "capturedRelativePath": "pages/api/nostr/publish.js",
+      "bytes": 115,
+      "sha256": "9c2b6e57ff2fb195b5fc25d85f89f49782f60d17804cc82dd2bc376c0925a980",
+      "family": "Org05 Next route, original-document adapter or project configuration",
+      "sourceEvidence": {
+        "recordedConversionProvenanceSHA256": "1d4d37221ea1493e511b4fe71192a9b1db1efc54e40ca7dc938d35778ed5a346",
+        "recordedSourceRoot": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/eleven-sites-live-parity-20261107/minimal-corrections-20261107/org-current-complete-next-20261107-05",
+        "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
+        "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
+      },
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/pages/api/nostr/publish.js"
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/src/OrgImage.jsx",
+      "capturedRelativePath": "src/OrgImage.jsx",
+      "bytes": 1043,
+      "sha256": "02b92981bbd7973c3197cfc7e3decf77e3ff3837e126f5599ecc486bbaf4acc4",
+      "family": "Org05 Next route, original-document adapter or project configuration",
+      "sourceEvidence": {
+        "recordedConversionProvenanceSHA256": "1d4d37221ea1493e511b4fe71192a9b1db1efc54e40ca7dc938d35778ed5a346",
+        "recordedSourceRoot": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/eleven-sites-live-parity-20261107/minimal-corrections-20261107/org-current-complete-next-20261107-05",
+        "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
+        "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
+      },
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/src/OrgImage.jsx"
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/src/OrgScripts.jsx",
+      "capturedRelativePath": "src/OrgScripts.jsx",
+      "bytes": 2058,
+      "sha256": "b50e9b866d55c16d0a40a637b799ee017951e017162f078d3ce0354907063366",
+      "family": "Org05 Next route, original-document adapter or project configuration",
+      "sourceEvidence": {
+        "recordedConversionProvenanceSHA256": "1d4d37221ea1493e511b4fe71192a9b1db1efc54e40ca7dc938d35778ed5a346",
+        "recordedSourceRoot": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/eleven-sites-live-parity-20261107/minimal-corrections-20261107/org-current-complete-next-20261107-05",
+        "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
+        "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
+      },
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/src/OrgScripts.jsx"
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/src/OrgTree.jsx",
+      "capturedRelativePath": "src/OrgTree.jsx",
+      "bytes": 2024,
+      "sha256": "a69cfcad07b046a896b3b368757b8b41707891a5ddb36e705003519cde3da3b0",
+      "family": "Org05 Next route, original-document adapter or project configuration",
+      "sourceEvidence": {
+        "recordedConversionProvenanceSHA256": "1d4d37221ea1493e511b4fe71192a9b1db1efc54e40ca7dc938d35778ed5a346",
+        "recordedSourceRoot": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/eleven-sites-live-parity-20261107/minimal-corrections-20261107/org-current-complete-next-20261107-05",
+        "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
+        "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
+      },
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/src/OrgTree.jsx"
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/src/org-pages.mjs",
+      "capturedRelativePath": "src/org-pages.mjs",
+      "bytes": 1677,
+      "sha256": "a3586afc7f40b3d4cd347267eef1567613c4bf7380849fb0f1cec9a0175dceea",
+      "family": "Org05 Next route, original-document adapter or project configuration",
+      "sourceEvidence": {
+        "recordedConversionProvenanceSHA256": "1d4d37221ea1493e511b4fe71192a9b1db1efc54e40ca7dc938d35778ed5a346",
+        "recordedSourceRoot": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/eleven-sites-live-parity-20261107/minimal-corrections-20261107/org-current-complete-next-20261107-05",
+        "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
+        "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
+      },
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/src/org-pages.mjs"
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/src/original/api/nostr/config.mjs",
+      "capturedRelativePath": "src/original/api/nostr/config.mjs",
+      "bytes": 590,
+      "sha256": "3765da5d6b803f293057da057153c3968916b9e4e763c663f9576c3cf440b718",
+      "family": "original CRAYS Nostr API/protocol integration",
+      "sourceEvidence": {
+        "originalRepositoryCommit": "5f89b020c87182e4a4cfe8f197e33832d0a54c4d",
+        "originalPath": "api/nostr/config.mjs",
+        "gitBlob": "79540f5e700ba90d749e1b9b5ddb1ec22ffb5b90",
+        "exactOriginalBodyMatch": true
+      },
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/src/original/api/nostr/config.mjs"
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/src/original/api/nostr/events.mjs",
+      "capturedRelativePath": "src/original/api/nostr/events.mjs",
+      "bytes": 970,
+      "sha256": "3a443f0bba4c95f35b2f26d14df153ef430631db7b9f8eaf1b9db0fc50112408",
+      "family": "original CRAYS Nostr API/protocol integration",
+      "sourceEvidence": {
+        "originalRepositoryCommit": "5f89b020c87182e4a4cfe8f197e33832d0a54c4d",
+        "originalPath": "api/nostr/events.mjs",
+        "gitBlob": "5c01913507c31826f0fb59fa455f0c29728aa094",
+        "exactOriginalBodyMatch": true
+      },
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/src/original/api/nostr/events.mjs"
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/src/original/api/nostr/moderation.mjs",
+      "capturedRelativePath": "src/original/api/nostr/moderation.mjs",
+      "bytes": 1597,
+      "sha256": "ad98b042f88bb575dcb555bd79dfd19fe34b8e7d5ac7d37e7cf08132f918b336",
+      "family": "original CRAYS Nostr API/protocol integration",
+      "sourceEvidence": {
+        "originalRepositoryCommit": "5f89b020c87182e4a4cfe8f197e33832d0a54c4d",
+        "originalPath": "api/nostr/moderation.mjs",
+        "gitBlob": "bcba7b5000ab494ccb35443aa7bcdfb8cd93cfee",
+        "exactOriginalBodyMatch": true
+      },
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/src/original/api/nostr/moderation.mjs"
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/src/original/api/nostr/publish.mjs",
+      "capturedRelativePath": "src/original/api/nostr/publish.mjs",
+      "bytes": 1016,
+      "sha256": "153c8e29d5e868d52c6c2965ead35f0194a79b22baf50e4b3e8fc5f5c8c317b8",
+      "family": "original CRAYS Nostr API/protocol integration",
+      "sourceEvidence": {
+        "originalRepositoryCommit": "5f89b020c87182e4a4cfe8f197e33832d0a54c4d",
+        "originalPath": "api/nostr/publish.mjs",
+        "gitBlob": "271f80f8ca61cd156490b1cd8268d70a36a55de5",
+        "exactOriginalBodyMatch": true
+      },
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/src/original/api/nostr/publish.mjs"
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/src/original/lib/nostr-server.mjs",
+      "capturedRelativePath": "src/original/lib/nostr-server.mjs",
+      "bytes": 9277,
+      "sha256": "14489d8fe8dd976e3edc40ce939fcb86a228120968e453e8a50ccd14d1dbf573",
+      "family": "original CRAYS Nostr API/protocol integration",
+      "sourceEvidence": {
+        "originalRepositoryCommit": "5f89b020c87182e4a4cfe8f197e33832d0a54c4d",
+        "originalPath": "lib/nostr-server.mjs",
+        "gitBlob": "fe0016c71ed7c28302497cf899db21b171fdec79",
+        "exactOriginalBodyMatch": true
+      },
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/src/original/lib/nostr-server.mjs"
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/src/original/package.json",
+      "capturedRelativePath": "src/original/package.json",
+      "bytes": 265,
+      "sha256": "055ae23985846bb70b98f36e3472f64dd14b7bb666a48f3f9db62ba2108efca7",
+      "family": "Org05 Next route, original-document adapter or project configuration",
+      "sourceEvidence": {
+        "recordedConversionProvenanceSHA256": "1d4d37221ea1493e511b4fe71192a9b1db1efc54e40ca7dc938d35778ed5a346",
+        "recordedSourceRoot": "/home/craysdev/codex-chat-projects/member/output/aws-inventory-20261104/eleven-sites-live-parity-20261107/minimal-corrections-20261107/org-current-complete-next-20261107-05",
+        "recordedReleaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
+        "boundary": "Custom conversion/account/API wrappers; framework implementations, input page data and loaded scripts are excluded."
+      },
+      "sourceURL": "https://github.com/CraysCircle/crays-org/blob/acf3ed1e19fc4be0489946725259925309fecdbd/source-archives/org-web/org05-20261107/src/original/package.json"
+    }
+  ],
+  "coveredFileCount": 21,
+  "coveredBytes": 25240,
+  "excludedCapturedInputs": [
+    {
+      "path": "source-archives/org-web/org05-20261107/next-env.d.ts",
+      "reason": "Framework-generated reference/type glue, explicitly marked do not edit; no own-code grant applied."
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/src/original/package-lock.json",
+      "reason": "Generated dependency lock includes third-party metadata; original licenses remain separate."
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/tsconfig.json",
+      "reason": "Generic build/type configuration omitted from this first narrow integration-code grant; no third-party ownership conclusion."
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/public/llms.txt",
+      "reason": "Crawler/discovery/document route data outside the code-only grant; sitemap may describe article corpus."
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/public/robots.txt",
+      "reason": "Crawler/discovery/document route data outside the code-only grant; sitemap may describe article corpus."
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/public/sitemap.xml",
+      "reason": "Crawler/discovery/document route data outside the code-only grant; sitemap may describe article corpus."
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/src/account-entry/AccountEntry.tsx",
+      "bytes": 3792,
+      "sha256": "ec6bb7a3c6f3633ef0e88e1c1c8dcba7150ed218905c2d33f20170f2a998fb91",
+      "reason": "Shared account source excluded pending exact original shared-project mapping; this notice grants no license for it."
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/src/account-entry/account-access-messages.ts",
+      "bytes": 17707,
+      "sha256": "196527fcbce918d054e5dbb6c977deb04e13aaf326b373d9b5ee0af08036478a",
+      "reason": "Shared account source excluded pending exact original shared-project mapping; this notice grants no license for it."
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/src/account-entry/clubs-member-account.module.css",
+      "bytes": 29861,
+      "sha256": "48b721ff2dcc499d93c867846d95583f193db8cad504a9e3ae7ffd3ddb9f1825",
+      "reason": "Shared account source excluded pending exact original shared-project mapping; this notice grants no license for it."
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/src/account-entry/clubs-public-design-tokens.module.css",
+      "bytes": 3813,
+      "sha256": "6afcc3191064339c5fa11e8960901feeaafe97cd1eb2da2c78c3f2628cb58ed2",
+      "reason": "Shared account source excluded pending exact original shared-project mapping; this notice grants no license for it."
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/public/assets/css/crays-modern-overrides.css",
+      "bytes": 949126,
+      "sha256": "e435f0450f3f2811a21f8777e9ebada0e3b26b2adc64f4534025b20c23abac96",
+      "reason": "Technical CSS/JS excluded pending exact changed/retained source provenance."
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/public/assets/css/crays-nostr-baas.css",
+      "bytes": 264031,
+      "sha256": "f0d4a2c56dd2b4b35685b0fc51279530f110f20ec718341eefb657b9dcceb4e1",
+      "reason": "Technical CSS/JS excluded pending exact changed/retained source provenance."
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/public/assets/css/crays-nostr-hub.css",
+      "bytes": 307230,
+      "sha256": "ec986b2329f999283ed0e0aa8e15732cf8b7c77a21398d0ffadd221e6675e53c",
+      "reason": "Technical CSS/JS excluded pending exact changed/retained source provenance."
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/public/assets/fund-contact/crays-language.css",
+      "bytes": 4982,
+      "sha256": "9b395ba21679fd7ad6c209b73476abf4644b47d32b2623672d3ed639d0dcb374",
+      "reason": "Technical CSS/JS excluded pending exact changed/retained source provenance."
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/public/assets/fund-contact/resources-page.js",
+      "bytes": 12456,
+      "sha256": "9ad35401461aaeae1e568b9b709c778db270bccd6d05c9025b98f85e886d7505",
+      "reason": "Technical CSS/JS excluded pending exact changed/retained source provenance."
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/public/assets/js/crays-nostr-community.js",
+      "bytes": 56068,
+      "sha256": "e1a79fbfbaa76823e7434f3d4099246b4c12b4de831b268aafc8c5981c590167",
+      "reason": "Technical CSS/JS excluded pending exact changed/retained source provenance."
+    },
+    {
+      "path": "source-archives/org-web/org05-20261107/public/assets/js/site.js",
+      "bytes": 5780,
+      "sha256": "76c0e5606ffdf5e03779e4d1085e4517b89bef3216dfc2d53d1a11eae170d9cc",
+      "reason": "Technical CSS/JS excluded pending exact changed/retained source provenance."
+    }
+  ],
+  "additionalExclusions": [
+    "All original/generated/crawled article and page data, translations and embedded content outside these source files.",
+    "All media, photographs, logos, fonts, external implementations and dependencies.",
+    "Any original third-party implementation within or outside the archive is outside the CRAYS grant and retains its applicable license.",
+    "All repository paths and independent revisions outside this exact source scope."
+  ],
+  "originalLicenseText": {
+    "path": "LICENSE",
+    "bytes": 34523,
+    "sha256": "0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0",
+    "url": "https://ftp.gnu.org/gnu/Licenses/agpl-3.0.txt"
+  },
+  "sourceAuthority": {
+    "releaseManifestSHA256": "df887be084990b3d792913680f39f9742b70aca9d1aac3e28ad65db6f22e4bee",
+    "buildId": "26alHqUImOYdSd1toc_ez",
+    "selected28ManifestSHA256": "5ccd42238f8575aaa3b03cebd5b29e6b3f6a493f0450d28fe6672abdbf7282bb",
+    "recordedConversionProvenanceSHA256": "1d4d37221ea1493e511b4fe71192a9b1db1efc54e40ca7dc938d35778ed5a346"
+  },
+  "sourceFilesPreservedUnchanged": true,
+  "applicationSourceExecuted": false,
+  "fullWebsiteRightsOrRecoveryClosure": false
+}
