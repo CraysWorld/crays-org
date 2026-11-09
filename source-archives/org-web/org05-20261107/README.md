@@ -43,3 +43,7 @@ The dated grant now also covers the four retained shared-account integration inp
 ## Original multilingual pages and Nostr research
 
 The [page-source guide](PAGE_SOURCES.md) connects the retained renderer to all 1,838 original route/page JSON inputs (168,384,874 bytes). Explore the content groups, exact source manifest and contribution entry points there. Source bodies and existing notices remain unchanged; content origin is recorded from the direct owner statement, with prose reuse terms kept separate from the integration-code AGPL grant. Full assets/index/dependency/runtime recovery remains separately open.
+
+## Browse recorded page routes
+
+Use the [page source index](PAGE_INDEX.md) to find each of the 1,837 recorded Org page routes in ten sections. Nostr sections document the wider ecosystem; route counts do not describe CRAYS-operated applications. Links retain the original immutable page JSON sources.

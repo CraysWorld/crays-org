@@ -29,3 +29,7 @@ The [dated AGPL-3.0-only grant](LICENSING.md) covers the exact CRAYS-owned integ
 These are the original Org05 route/page inputs corresponding to the release and build identifiers in the exact source manifest. Their structural consistency and scoped privacy review do not establish adoption by a current runtime. The four legal documents are historical source text and are not certified here as the current applicable policies.
 
 This addition supplies 1,838 original JSON inputs alongside the previously retained 38 source/technical inputs. Complete media and font bodies, the separate search index, the root application's complete dependency lock and remaining notices/recovery evidence still require their own records. This source publication executes no retained script, SQL, product test or runtime program.
+
+## Browse recorded page routes
+
+Use the [page source index](PAGE_INDEX.md) to find each of the 1,837 recorded Org page routes in ten sections. Nostr sections document the wider ecosystem; route counts do not describe CRAYS-operated applications. Links retain the original immutable page JSON sources.

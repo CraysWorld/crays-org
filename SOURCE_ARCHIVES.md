@@ -13,3 +13,7 @@ The source-only tag **org-web-own-code-agpl3-20261109** adds [the CRAYS AG grant
 The later source-only tag **org-web-own-code-agpl3-account4-20261109** extends the [exact CRAYS AG integration-code grant](source-archives/org-web/org05-20261107/LICENSING.md) from 21 to 25 unchanged source revisions. The four added shared-account files are traced to their original shared project and immutable platform source. The GNU license text remains unchanged; the seven separately unqualified technical CSS/JavaScript inputs, articles, fonts and other excluded material remain outside this grant.
 
 The source-only tag **org-web-page-sources1838-20261109** adds [all 1,838 original route/page JSON inputs and their developer map](source-archives/org-web/org05-20261107/PAGE_SOURCES.md). Together with the previous 38 source/technical inputs this preserves 1,876 selected original inputs (170,434,208 bytes), with their respective source records. It keeps the original main branch unchanged and adds no blanket prose/asset license or complete-runtime recovery claim.
+
+## Browse recorded page routes
+
+Use the [page source index](source-archives/org-web/org05-20261107/PAGE_INDEX.md) to find each of the 1,837 recorded Org page routes in ten sections. Nostr sections document the wider ecosystem; route counts do not describe CRAYS-operated applications. Links retain the original immutable page JSON sources.
