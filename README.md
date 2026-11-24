@@ -1,32 +1,19 @@
-# crays-org
+# CRAYS Org
 
-Local working copy for `www.crays.org`.
+**Current operating environment — 24 November 2026:** CRAYS development, builds, testing, previews and server operation use AWS. Vercel, Neon and XXL references in older captures describe historical environments. This hosting status does not claim completion of every product flow. [Current AWS and source guidance](https://github.com/CraysWorld/.github/blob/main/docs/aws-operating-status.md).
 
-This project is a static mirror/worktree of the current Vercel project `crays-org`.
+Source repository for the CRAYS Association website at [crays.org](https://crays.org). The root preserves the original static website/mirror source; this is separate from the exact later AWS release composition.
 
-- Vercel project: `prj_5paxPwt5pgAe7cyvTn85lUx1wwV6`
-- Vercel team: `team_hBEkypVxg4SGGaxkUdHo6e4y`
-- Production domains: `www.crays.org`, `crays.org`
-- Latest recovered local source: `C:\Users\34669\Documents\Codex\2026-05-13\bitte-ziehe-dr-die-daten-von`
-- Important yesterday edits: 14.05.2026, especially `public\finance\index.html` at 21:52
-- Stock image source: `C:\Users\34669\OneDrive - Crays Europe SE\Dokumente\Crays\Bilder\Stock Images`
+## Source navigation
 
-## Local Development
+- `public/`: retained public website files.
+- `api/`, `lib/`: original API and supporting source.
+- `scripts/`, `tools/`, `mirror-crays.mjs`: retained development and capture tools.
+- `package.json` and `package-lock.json`: original package and dependency declarations.
+- [Recorded page/source index](https://github.com/CraysWorld/crays-org/blob/org-page-reader-index-20261109/source-archives/org-web/org05-20261107/PAGE_INDEX.md): the qualified historical page capture.
 
-```powershell
-npm start
-```
+## Development and publication
 
-The local server opens the `public` directory and serves routes like `/finance/`, `/association/`, and `/tech/`.
+Use the existing authorised AWS development/build environment and the current release owner's exact source/artifact records. Do not deploy this historical mirror to Vercel or treat a recovered Windows path as the current working source. Retained `.vercelignore` and Vercel-era source/configuration document the original capture and are not current deployment instructions.
 
-## Refresh From Live
-
-```powershell
-npm run mirror:live
-```
-
-This mirrors same-origin pages and assets from `https://crays.org` into `public`.
-
-## Deployment Note
-
-The `.vercel/project.json` file is kept locally and ignored by Git. It links this folder to the existing Vercel project when using the Vercel CLI on this machine.
+`npm start` starts the original local source server. `npm run mirror:live` is an original capture operation that writes website files; do not use it as a source-of-truth update or overwrite newer work with a live mirror. This documentation pass ran neither command and changed no application source or runtime.
